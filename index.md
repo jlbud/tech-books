@@ -3,7 +3,7 @@
 I often share my tech summaries
 
 ## Golang
-[golang hello](https://github.com/klbud/tech-books/blob/gh-pages/index.md)
+[golang hello](https://klbud.github.io/tech-books/golang/hello)
 
 ## Redis
 
