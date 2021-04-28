@@ -7,5 +7,4 @@ I often share my tech summaries
 ## Redis
 
 ## MySQL
-
 ## Algorithm
